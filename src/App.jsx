@@ -1,4 +1,3 @@
-
 import reactLogo from "./assets/react.svg";
 import "./App.css";
 function App() {
@@ -6,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={reactLogo} className="logo react" alt="React logo" />
-        <h1>Hello from Infocentric EMIA Managed Services Team/h1>
+        <h1>Hello from Infocentric EMIA Managed Services Team</h1>
       </header>
     </div>
   );
